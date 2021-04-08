@@ -1,0 +1,49 @@
+h1{
+   background-color:rgb(187, 104, 20);
+  outline-style: groove;
+    color:gainsboro;
+}
+.lable{
+ background-color:rgb(240, 148, 68);
+    font-family:sans-serif;
+    color:rgb(21, 168, 87);
+    
+bottom: 50px;
+left: 16px;
+outline-style: double;
+
+}
+.bottom-left{
+    background-color: rgb(223, 129, 48);
+    color:rgb(40, 161, 15);
+   font-family:Georgia, 'Times New Roman', Times, serif;
+           outline-style: double;
+   font-size: 20;
+}
+.camel{
+    color: slateblue;
+    background-color: rgb(214, 212, 89);
+    outline-style:double;
+}
+.pigeon{
+   background-color: rgb(50, 196, 196);
+    outline-style:double;
+}
+
+.chameleon{
+    background-color: rgb(210, 247, 0);
+    outline-style:double;
+}
+.teddy{
+    background-color: rgb(254, 196, 131);
+    outline-style: double;
+}
+
+.panda{
+    background-color: rgb(76,82,105);
+    outline-style:double;
+}
+.flying{
+    background-color: rgb(255,168,85);
+    outline-style: double;
+}
